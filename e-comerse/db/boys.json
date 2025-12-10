@@ -1,0 +1,165 @@
+{"boysproducts": [
+  {
+    "id": 1,
+    "name": "Casual Cotton Shirt",
+    "sizes": ["S", "M", "L", "XL"],
+    "price": 799,
+    "description": "Soft breathable cotton shirt suitable for daily wear.",
+    "image": "/public/boy1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Slim Fit Denim Shirt",
+    "sizes": ["M", "L", "XL"],
+    "price": 1199,
+    "description": "Blue denim slim-fit shirt for a stylish casual look.",
+    "image": "/public/boy2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Formal White Shirt",
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "price": 999,
+    "description": "Classic white formal shirt ideal for office and meetings.",
+    "image": "/public/boy3.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Checked Shirt",
+    "sizes": ["M", "L", "XL"],
+    "price": 899,
+    "description": "Trendy checked shirt perfect for outdoor and casual outings.",
+    "image": "/public/boy4.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Black Party Shirt",
+    "sizes": ["M", "L", "XL"],
+    "price": 1299,
+    "description": "Stylish black partywear shirt with glossy finish.",
+    "image": "/public/boy5.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Polo T-Shirt",
+    "sizes": ["S", "M", "L", "XL"],
+    "price": 699,
+    "description": "Comfort-fit polo t-shirt for everyday comfort.",
+    "image": "/public/boy6.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Round Neck T-Shirt",
+    "sizes": ["S", "M", "L", "XL"],
+    "price": 499,
+    "description": "Soft cotton round-neck t-shirt for casual style.",
+    "image": "/public/boy7.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Hoodie Sweatshirt",
+    "sizes": ["M", "L", "XL", "XXL"],
+    "price": 1399,
+    "description": "Warm fleece hoodie perfect for winters.",
+    "image": "/public/boy8.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Full Sleeve T-Shirt",
+    "sizes": ["M", "L", "XL"],
+    "price": 650,
+    "description": "Stretchable full-sleeve t-shirt ideal for workouts.",
+    "image": "/public/boy9.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Blue Formal Shirt",
+    "sizes": ["S", "M", "L", "XL"],
+    "price": 1100,
+    "description": "Premium blue shirt designed for formal wear.",
+    "image": "/public/boy10.jpg"
+  },
+
+  {
+    "id": 11,
+    "name": "Slim Fit Jeans",
+    "sizes": ["30", "32", "34", "36"],
+    "price": 1499,
+    "description": "Comfortable stretchable slim-fit denim jeans.",
+    "image": "/public/boy11.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Regular Fit Jeans",
+    "sizes": ["30", "32", "34", "36", "38"],
+    "price": 1299,
+    "description": "Classic regular-fit denim jeans for all-day wear.",
+    "image": "/public/boy12.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Chino Pants",
+    "sizes": ["30", "32", "34", "36"],
+    "price": 1199,
+    "description": "Soft chino pants perfect for office and casual outings.",
+    "image": "/public/boy13.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Jogger Pants",
+    "sizes": ["M", "L", "XL"],
+    "price": 899,
+    "description": "Comfortable joggers suitable for gym and daily wear.",
+    "image": "/public/boy14.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Formal Trousers",
+    "sizes": ["30", "32", "34", "36", "38"],
+    "price": 1399,
+    "description": "Premium trousers suitable for office and meetings.",
+    "image": "/public/boy15.jpg"
+  },
+
+  {
+    "id": 16,
+    "name": "Leather Jacket",
+    "sizes": ["M", "L", "XL"],
+    "price": 2999,
+    "description": "Premium faux leather jacket with stylish finishing.",
+    "image": "/public/boy16.jpg"
+  },
+  {
+    "id": 17,
+    "name": "Denim Jacket",
+    "sizes": ["M", "L", "XL"],
+    "price": 1999,
+    "description": "Classic blue denim jacket for a rugged look.",
+    "image": "/public/boy17.jpg"
+  },
+  {
+    "id": 18,
+    "name": "Bomber Jacket",
+    "sizes": ["M", "L", "XL"],
+    "price": 2499,
+    "description": "Trendy bomber jacket with soft padding.",
+    "image": "/public/boy18.jpg"
+  },
+  {
+    "id": 19,
+    "name": "Casual Blazer",
+    "sizes": ["M", "L", "XL"],
+    "price": 2699,
+    "description": "Lightweight blazer suitable for semi-formal events.",
+    "image": "/public/boy19.jpg"
+  },
+  {
+    "id": 20,
+    "name": "Formal Blazer",
+    "sizes": ["L", "XL", "XXL"],
+    "price": 3499,
+    "description": "Premium blazer ideal for business meetings.",
+    "image": "/public/boy20.jpg"
+  }
+]
+}

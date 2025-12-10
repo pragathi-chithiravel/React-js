@@ -1,0 +1,163 @@
+{"womensproduct":[
+  {
+    "id": 1,
+    "name": "Kanchipuram Silk Saree",
+    "type": "Silk",
+    "price": 3499,
+    "description": "Traditional Kanchipuram silk saree with zari border.",
+    "image": "/public/womens1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Banarasi Saree",
+    "type": "Banarasi",
+    "price": 2999,
+    "description": "Elegant red Banarasi saree perfect for weddings and festivals.",
+    "image": "/public/womens2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Cotton Handloom Saree",
+    "type": "Cotton",
+    "price": 1499,
+    "description": "Soft cotton handloom saree suitable for daily wear.",
+    "image": "/public/womens3.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Silk Designer Saree",
+    "type": "Designer",
+    "price": 3999,
+    "description": "Rich blue silk saree with intricate embroidery.",
+    "image": "/public/womens4.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Georgette Saree",
+    "type": "Party Wear",
+    "price": 2599,
+    "description": "Pink georgette saree with stonework design ideal for parties.",
+    "image": "/public/womens5.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Cotton Printed Saree",
+    "type": "Cotton",
+    "price": 1200,
+    "description": "Lightweight yellow printed cotton saree for casual outings.",
+    "image": "/public/womens6.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Silk Saree",
+    "type": "Bridal",
+    "price": 5999,
+    "description": "Luxurious bridal silk saree with golden zari work.",
+    "image": "/public/womens7.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Banarasi Saree",
+    "type": "Banarasi",
+    "price": 2799,
+    "description": "Traditional green Banarasi saree with rich border work.",
+    "image": "/public/womens8.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Soft Silk Saree",
+    "type": "Silk",
+    "price": 3199,
+    "description": "Smooth and elegant purple soft silk saree.",
+    "image": "/public/womens9.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Designer Saree",
+    "type": "Designer",
+    "price": 3500,
+    "description": "Stylish black designer saree with shimmering border.",
+    "image": "/public/womens10.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Linen Saree",
+    "type": "Linen",
+    "price": 1600,
+    "description": "Simple and elegant white linen saree for daily comfort.",
+    "image": "/public/womens11.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Soft Georgette Saree",
+    "type": "Party Wear",
+    "price": 2200,
+    "description": "Soft georgette saree in pastel pink with light embroidery.",
+    "image": "/public/womens12.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Cotton Saree",
+    "type": "Cotton",
+    "price": 999,
+    "description": "Classic blue cotton saree for daily use.",
+    "image": "/public/womens13.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Tissue Saree",
+    "type": "Designer",
+    "price": 4200,
+    "description": "Premium golden tissue saree ideal for rich festive looks.",
+    "image": "/public/womens14.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Kora Silk Saree",
+    "type": "Silk",
+    "price": 3300,
+    "description": "Lightweight kora silk saree with elegant border.",
+    "image": "/public/womens15.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Embroidered Saree",
+    "type": "Party Wear",
+    "price": 2600,
+    "description": "Bright red saree with heavy embroidery work.",
+    "image": "/public/womens16.jpg"
+  },
+  {
+    "id": 17,
+    "name": "Festive Saree",
+    "type": "Traditional",
+    "price": 2800,
+    "description": "Yellow festive saree adorned with traditional patterns.",
+    "image": "/public/womens17.jpg"
+  },
+  {
+    "id": 18,
+    "name": "Banarasi Silk Saree",
+    "type": "Banarasi",
+    "price": 3499,
+    "description": "Heavy Banarasi silk saree in rich blue shade.",
+    "image": "/public/womens18.jpg"
+  },
+  {
+    "id": 19,
+    "name": "Soft Cotton Saree",
+    "type": "Cotton",
+    "price": 1300,
+    "description": "Soft and breathable orange cotton saree.",
+    "image": "/public/womens19.jpg"
+  },
+  {
+    "id": 20,
+    "name": "Silk Saree",
+    "type": "Bridal",
+    "price": 6200,
+    "description": "Premium wedding silk saree with luxurious zari weaving.",
+    "image": "/public/womens20.jpg"
+  }
+]
+}

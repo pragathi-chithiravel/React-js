@@ -1,0 +1,164 @@
+{"girlsproduct":[
+  {
+    "id": 1,
+    "name": "Traditional Chudithar",
+    "sizes": ["S", "M", "L"],
+    "price": 1099,
+    "description": "Traditional pink chudithar with matching soft dupatta.",
+    "image": "/public/girls1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Embroidery Chudithar",
+    "sizes": ["M", "L", "XL"],
+    "price": 1299,
+    "description": "Elegant purple chudithar with embroidery work.",
+    "image": "/public/girls2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Anarkali Chudithar",
+    "sizes": ["S", "M", "L", "XL"],
+    "price": 1399,
+    "description": "Flowy Anarkali chudithar made of premium rayon.",
+    "image": "/public/girls3.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Soft Cotton Chudithar",
+    "sizes": ["S", "M"],
+    "price": 999,
+    "description": "Breathable green cotton chudithar ideal for daily use.",
+    "image": "/public/girls4.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Umberlla Chudithar",
+    "sizes": ["M", "L"],
+    "price": 1499,
+    "description": "Rich red chudithar perfect for festive functions.",
+    "image": "/public/girls5.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Printed Chudithar",
+    "sizes": ["S", "M", "XL"],
+    "price": 1190,
+    "description": "Printed yellow chudithar paired with light dupatta.",
+    "image": "/public/girls6.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Silk Chudithar",
+    "sizes": ["L", "XL"],
+    "price": 1599,
+    "description": "Premium blue silk chudithar for special occasions.",
+    "image": "/public/girls7.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Designer Chudithar",
+    "sizes": ["S", "M", "L"],
+    "price": 1699,
+    "description": "Designer chudithar in pastel pink with layered pattern.",
+    "image": "/public/girls8.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Anarkali Chudithar",
+    "sizes": ["S", "M", "XL"],
+    "price": 1490,
+    "description": "Long Anarkali maroon chudi with elegant handwork.",
+    "image": "/public/girls9.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Rayon Chudithar",
+    "sizes": ["M", "L"],
+    "price": 1100,
+    "description": "Soft rayon green chudi for smooth comfort.",
+    "image": "/public/girls10.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Printed Chudi",
+    "sizes": ["S", "M", "L"],
+    "price": 850,
+    "description": "Light printed blue chudi ideal for daily wear.",
+    "image": "/public/girls11.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Cotton Chudithar",
+    "sizes": ["S", "M"],
+    "price": 950,
+    "description": "Comfortable orange cotton chudi for everyday use.",
+    "image": "/public/girls12.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Mirror Work Chudithar",
+    "sizes": ["M", "L", "XL"],
+    "price": 1799,
+    "description": "Attractive mirror-work chudithar perfect for parties.",
+    "image": "/public/girls13.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Georgette Chudithar",
+    "sizes": ["S", "M", "L"],
+    "price": 1399,
+    "description": "Soft georgette purple chudi with designer dupatta.",
+    "image": "/public/girls14.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Peach Stylish Chudithar",
+    "sizes": ["M", "L"],
+    "price": 1550,
+    "description": "Trendy peach chudithar with net sleeve design.",
+    "image": "/public/girls15.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Floral Summer Dress",
+    "sizes": ["S", "M", "L"],
+    "price": 799,
+    "description": "Soft cotton floral dress ideal for sunny weather.",
+    "image": "/public/girls16.jpg"
+  },
+  {
+    "id": 17,
+    "name": "Sleeveless Summer Dress",
+    "sizes": ["S", "M", "L"],
+    "price": 699,
+    "description": "Light pink sleeveless dress perfect for outings.",
+    "image": "/public/girls17.jpg"
+  },
+  {
+    "id": 18,
+    "name": "Summer Frock",
+    "sizes": ["S", "M"],
+    "price": 650,
+    "description": "Cute yellow cotton frock for daily use.",
+    "image": "/public/girls18.jpg"
+  },
+  {
+    "id": 19,
+    "name": "rinted Summer Dress",
+    "sizes": ["M", "L", "XL"],
+    "price": 850,
+    "description": "Printed blue dress with soft and airy fabric.",
+    "image": "/public/girls19.jpg"
+  },
+  {
+    "id": 20,
+    "name": "Peach Cotton Summer Dress",
+    "sizes": ["S", "M", "L"],
+    "price": 900,
+    "description": "Breathable peach-color summer cotton dress.",
+    "image": "/public/girls20.jpg"
+  }
+]
+
+}
