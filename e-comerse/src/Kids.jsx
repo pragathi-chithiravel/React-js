@@ -3,7 +3,7 @@ import { useEffect } from 'react'
 import {Link} from 'react-router-dom'
 import { useNavigate } from 'react-router-dom'
 
-function KidsPage({}) {
+function KidsPage() {
      const [kidsdata,setKidsdata]=useState([])
 
      useEffect(()=>{

@@ -268,4 +268,9 @@ h5{
     margin-bottom: 15px;
     width: 70px;
     color: white;
-}                           
+}   
+
+#homepagecard{
+    background: linear-gradient(180deg, #C7B9F9 0%, #9A8FF7 50%, #7A70E0 100%);
+
+}
