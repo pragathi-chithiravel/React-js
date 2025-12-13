@@ -1,17 +1,24 @@
 import React, { useEffect, useState } from 'react'
+import { useNavigate } from 'react-router-dom';
+import data from '/public/db/product.json'
 
 function MensPage({}) {
   const [mensdata,setMensdata]=useState([]);
 
-  useEffect(()=>{
-    fetch("/db/mens.json")
-    .then(response=>response.json())
-    .then(data=>setMensdata(data.mensproducts))
-  },[])
+  const mens=data.mensproducts
+
+  // useEffect(()=>{
+  //   fetch("/db/mens.json")
+  //   .then(response=>response.json())
+  //   .then(data=>setMensdata(data.mensproducts))
+  // },[])
+
+  const navigate=useNavigate();
+  
   return (
     <>
     <div className="row row-cols-1 row-cols-md-3 g-5" style={{marginTop:"50px"}}>
-      {mensdata.map(product=>(
+      {mens.map(product=>(
       <div key={product.id} class="card shadow" style={{width: "17rem"}}>
   <img src={product.image} class="card-img-top" alt=""/>
   <div class="card-body">
@@ -20,7 +27,7 @@ function MensPage({}) {
         <h4 class="card-text" style={{fontSize:"16px",paddingRight:"10px",display:"flex"}}>&#8377; {product.price}</h4>
     <p style={{fontSize:"13px",display:"flex"}}>🚚Free Delivery</p>
 
-    <button class="btn btn-primary">Buy</button>
+    <button onClick={()=>{navigate("/BuyPage")}} class="btn btn-primary">Buy</button>
  
   </div>
   </div>

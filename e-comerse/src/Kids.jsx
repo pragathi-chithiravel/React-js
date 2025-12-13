@@ -2,29 +2,28 @@ import React, { useState } from 'react'
 import { useEffect } from 'react'
 import {Link} from 'react-router-dom'
 import { useNavigate } from 'react-router-dom'
+import data from '/public/db/product.json'
 
 function KidsPage() {
      const [kidsdata,setKidsdata]=useState([])
+      const kids=data.kidsproduct
 
-     useEffect(()=>{
-        fetch("/db/kids.json")
-        .then(response=>response.json())
-        .then(data=>setKidsdata(data.kidsproduct))
+    //  useEffect(()=>{
+    //     fetch("./db/product.json")
+    //     .then(response=>response.json())
+    //     .then(data=>setKidsdata(data.kidsproduct))
 
-     },[])
+    //  },[])
     
      const navigate=useNavigate();
 
-     const handlebuybutton=()=>{
-      navigate("/BuyPage")
-     }
 
   return (
     <>
        
 <div className="row row-cols-1 row-cols-md-3 g-5" style={{marginTop:"50px"}}>
 
-    {kidsdata.map(product=>(
+    {kids.map(product=>(
         <div key={product.id} class='card shadow' style={{width: "17rem"}}>
   <img src={product.image} class="card-img-top" alt=""/>
 
@@ -39,7 +38,7 @@ function KidsPage() {
          </div>
     <p style={{fontSize:"13px",display:"flex"}}>🚚Free Delivery</p>
 
-    <button onClick={handlebuybutton} class="btn btn-primary">Buy</button>
+    <button onClick={()=>{navigate("/BuyPage"+product.id)}} class="btn btn-primary">Buy</button>
 
     
   </div>

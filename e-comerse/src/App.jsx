@@ -116,21 +116,18 @@ function App() {
             <Route path='/Girls' element={<GirlsPage/>}/>
             <Route path='/Mens' element={<MensPage/>}/>
             <Route path='/Womens' element={<WomensPage/>}/>
+            <Route path='/' element={<LoginPage/>}/>
+          <Route path="/RegisterPage" element={<RegisterPage/>}/>
+          <Rout path='/BuyPage/:id' element={<BuyPage/>}/>
         </Routes>
 
         <Link to="/"></Link>
-        {/* <Link to={`/product/${item.id}`}>
-        <button class="btn btn-primary">Buy</button>
-        </Link> */}
 
-        <Routes>
-           <Route path='/' element={<LoginPage/>}/>
-          <Route path="/RegisterPage" element={<RegisterPage/>}/>
-          <Route path='/BuyPage' element={<BuyPage/>}/>
-           
+         {/* <Link to={`/BuyPage/${p.id}`}>
+    <button class="btn btn-primary">Buy</button>
+    </Link> */}
 
-        </Routes>
-        
+      
 
     </>
   )

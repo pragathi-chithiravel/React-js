@@ -1,0 +1,888 @@
+{
+   "boysproducts": [
+  {
+    "id": 1,
+    "name": "Casual Cotton Shirt",
+    "sizes": ["S", "M", "L", "XL"],
+    "price": 799,
+    "description": "Soft breathable cotton shirt suitable for daily wear.",
+    "image": "/public/boy1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Slim Fit Denim Shirt",
+    "sizes": ["M", "L", "XL"],
+    "price": 1199,
+    "description": "Blue denim slim-fit shirt for a stylish casual look.",
+    "image": "/public/boy2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Formal White Shirt",
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "price": 999,
+    "description": "Classic white formal shirt ideal for office and meetings.",
+    "image": "/public/boy3.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Checked Shirt",
+    "sizes": ["M", "L", "XL"],
+    "price": 899,
+    "description": "Trendy checked shirt perfect for outdoor and casual outings.",
+    "image": "/public/boy4.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Black Party Shirt",
+    "sizes": ["M", "L", "XL"],
+    "price": 1299,
+    "description": "Stylish black partywear shirt with glossy finish.",
+    "image": "/public/boy5.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Polo T-Shirt",
+    "sizes": ["S", "M", "L", "XL"],
+    "price": 699,
+    "description": "Comfort-fit polo t-shirt for everyday comfort.",
+    "image": "/public/boy6.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Round Neck T-Shirt",
+    "sizes": ["S", "M", "L", "XL"],
+    "price": 499,
+    "description": "Soft cotton round-neck t-shirt for casual style.",
+    "image": "/public/boy7.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Hoodie Sweatshirt",
+    "sizes": ["M", "L", "XL", "XXL"],
+    "price": 1399,
+    "description": "Warm fleece hoodie perfect for winters.",
+    "image": "/public/boy8.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Full Sleeve T-Shirt",
+    "sizes": ["M", "L", "XL"],
+    "price": 650,
+    "description": "Stretchable full-sleeve t-shirt ideal for workouts.",
+    "image": "/public/boy9.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Blue Formal Shirt",
+    "sizes": ["S", "M", "L", "XL"],
+    "price": 1100,
+    "description": "Premium blue shirt designed for formal wear.",
+    "image": "/public/boy10.jpg"
+  },
+
+  {
+    "id": 11,
+    "name": "Slim Fit Jeans",
+    "sizes": ["30", "32", "34", "36"],
+    "price": 1499,
+    "description": "Comfortable stretchable slim-fit denim jeans.",
+    "image": "/public/boy11.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Regular Fit Jeans",
+    "sizes": ["30", "32", "34", "36", "38"],
+    "price": 1299,
+    "description": "Classic regular-fit denim jeans for all-day wear.",
+    "image": "/public/boy12.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Chino Pants",
+    "sizes": ["30", "32", "34", "36"],
+    "price": 1199,
+    "description": "Soft chino pants perfect for office and casual outings.",
+    "image": "/public/boy13.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Jogger Pants",
+    "sizes": ["M", "L", "XL"],
+    "price": 899,
+    "description": "Comfortable joggers suitable for gym and daily wear.",
+    "image": "/public/boy14.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Formal Trousers",
+    "sizes": ["30", "32", "34", "36", "38"],
+    "price": 1399,
+    "description": "Premium trousers suitable for office and meetings.",
+    "image": "/public/boy15.jpg"
+  },
+
+  {
+    "id": 16,
+    "name": "Leather Jacket",
+    "sizes": ["M", "L", "XL"],
+    "price": 2999,
+    "description": "Premium faux leather jacket with stylish finishing.",
+    "image": "/public/boy16.jpg"
+  },
+  {
+    "id": 17,
+    "name": "Denim Jacket",
+    "sizes": ["M", "L", "XL"],
+    "price": 1999,
+    "description": "Classic blue denim jacket for a rugged look.",
+    "image": "/public/boy17.jpg"
+  },
+  {
+    "id": 18,
+    "name": "Bomber Jacket",
+    "sizes": ["M", "L", "XL"],
+    "price": 2499,
+    "description": "Trendy bomber jacket with soft padding.",
+    "image": "/public/boy18.jpg"
+  },
+  {
+    "id": 19,
+    "name": "Casual Blazer",
+    "sizes": ["M", "L", "XL"],
+    "price": 2699,
+    "description": "Lightweight blazer suitable for semi-formal events.",
+    "image": "/public/boy19.jpg"
+  },
+  {
+    "id": 20,
+    "name": "Formal Blazer",
+    "sizes": ["L", "XL", "XXL"],
+    "price": 3499,
+    "description": "Premium blazer ideal for business meetings.",
+    "image": "/public/boy20.jpg"
+  }
+],
+
+  "girlsproduct":[
+  {
+    "id": 1,
+    "name": "Traditional Chudithar",
+    "sizes": ["S", "M", "L"],
+    "price": 1099,
+    "description": "Traditional pink chudithar with matching soft dupatta.",
+    "image": "/public/girls1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Embroidery Chudithar",
+    "sizes": ["M", "L", "XL"],
+    "price": 1299,
+    "description": "Elegant purple chudithar with embroidery work.",
+    "image": "/public/girls2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Anarkali Chudithar",
+    "sizes": ["S", "M", "L", "XL"],
+    "price": 1399,
+    "description": "Flowy Anarkali chudithar made of premium rayon.",
+    "image": "/public/girls3.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Soft Cotton Chudithar",
+    "sizes": ["S", "M"],
+    "price": 999,
+    "description": "Breathable green cotton chudithar ideal for daily use.",
+    "image": "/public/girls4.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Umberlla Chudithar",
+    "sizes": ["M", "L"],
+    "price": 1499,
+    "description": "Rich red chudithar perfect for festive functions.",
+    "image": "/public/girls5.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Printed Chudithar",
+    "sizes": ["S", "M", "XL"],
+    "price": 1190,
+    "description": "Printed yellow chudithar paired with light dupatta.",
+    "image": "/public/girls6.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Silk Chudithar",
+    "sizes": ["L", "XL"],
+    "price": 1599,
+    "description": "Premium blue silk chudithar for special occasions.",
+    "image": "/public/girls7.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Designer Chudithar",
+    "sizes": ["S", "M", "L"],
+    "price": 1699,
+    "description": "Designer chudithar in pastel pink with layered pattern.",
+    "image": "/public/girls8.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Anarkali Chudithar",
+    "sizes": ["S", "M", "XL"],
+    "price": 1490,
+    "description": "Long Anarkali maroon chudi with elegant handwork.",
+    "image": "/public/girls9.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Rayon Chudithar",
+    "sizes": ["M", "L"],
+    "price": 1100,
+    "description": "Soft rayon green chudi for smooth comfort.",
+    "image": "/public/girls10.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Printed Chudi",
+    "sizes": ["S", "M", "L"],
+    "price": 850,
+    "description": "Light printed blue chudi ideal for daily wear.",
+    "image": "/public/girls11.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Cotton Chudithar",
+    "sizes": ["S", "M"],
+    "price": 950,
+    "description": "Comfortable orange cotton chudi for everyday use.",
+    "image": "/public/girls12.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Mirror Work Chudithar",
+    "sizes": ["M", "L", "XL"],
+    "price": 1799,
+    "description": "Attractive mirror-work chudithar perfect for parties.",
+    "image": "/public/girls13.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Georgette Chudithar",
+    "sizes": ["S", "M", "L"],
+    "price": 1399,
+    "description": "Soft georgette purple chudi with designer dupatta.",
+    "image": "/public/girls14.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Peach Stylish Chudithar",
+    "sizes": ["M", "L"],
+    "price": 1550,
+    "description": "Trendy peach chudithar with net sleeve design.",
+    "image": "/public/girls15.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Floral Summer Dress",
+    "sizes": ["S", "M", "L"],
+    "price": 799,
+    "description": "Soft cotton floral dress ideal for sunny weather.",
+    "image": "/public/girls16.jpg"
+  },
+  {
+    "id": 17,
+    "name": "Sleeveless Summer Dress",
+    "sizes": ["S", "M", "L"],
+    "price": 699,
+    "description": "Light pink sleeveless dress perfect for outings.",
+    "image": "/public/girls17.jpg"
+  },
+  {
+    "id": 18,
+    "name": "Summer Frock",
+    "sizes": ["S", "M"],
+    "price": 650,
+    "description": "Cute yellow cotton frock for daily use.",
+    "image": "/public/girls18.jpg"
+  },
+  {
+    "id": 19,
+    "name": "rinted Summer Dress",
+    "sizes": ["M", "L", "XL"],
+    "price": 850,
+    "description": "Printed blue dress with soft and airy fabric.",
+    "image": "/public/girls19.jpg"
+  },
+  {
+    "id": 20,
+    "name": "Peach Cotton Summer Dress",
+    "sizes": ["S", "M", "L"],
+    "price": 900,
+    "description": "Breathable peach-color summer cotton dress.",
+    "image": "/public/girls20.jpg"
+  }
+],
+
+
+
+"kidsproduct" : [
+  {
+    "id": 1,
+    "name": "Floral Party Frock",
+    "sizes": ["2-3Y", "3-4Y", "4-5Y"],
+    "price": 899,
+    "discountPercent": 50,
+    "discountAmount": 449.5,
+    "finalAmount": 449.5,
+    "image": "/public/kids1.jpg",
+    "description": "Beautiful pink floral frock perfect for parties."
+  },
+  {
+    "id": 2,
+    "name": "Princess Gown",
+    "sizes": ["4-5Y", "5-6Y", "6-7Y"],
+    "price": 1599,
+    "discountPercent": 50,
+    "discountAmount": 799.5,
+    "finalAmount": 799.5,
+    "image": "/public/kids2.jpg",
+    "description": "Soft net gown suitable for birthday celebrations."
+  },
+  {
+    "id": 3,
+    "name": "Casual Cotton Frock",
+    "sizes": ["1-2Y", "2-3Y", "3-4Y"],
+    "price": 499,
+    "discountPercent": 50,
+    "discountAmount": 249.5,
+    "finalAmount": 249.5,
+    "image": "/public/kids3.jpg",
+    "description": "Everyday lightweight cotton frock for casual wear."
+  },
+  {
+    "id": 4,
+    "name": "Blue Tutu Dress",
+    "sizes": ["3-4Y", "4-5Y", "5-6Y"],
+    "price": 1299,
+    "discountPercent": 50,
+    "discountAmount": 649.5,
+    "finalAmount": 649.5,
+    "image": "/public/kids4.jpg",
+    "description": "Sparkly layered tutu dress for dance and events."
+  },
+  {
+    "id": 5,
+    "name": "Red Velvet Gown",
+    "sizes": ["5-6Y", "6-7Y", "7-8Y"],
+    "price": 1799,
+    "discountPercent": 50,
+    "discountAmount": 899.5,
+    "finalAmount": 899.5,
+    "image": "/public/kids5.jpg",
+    "description": "Premium velvet party gown with floral embroidery."
+  },
+  {
+    "id": 6,
+    "name": "Printed Summer Dress",
+    "sizes": ["2-3Y", "3-4Y"],
+    "price": 550,
+    "discountPercent": 50,
+    "discountAmount": 275,
+    "finalAmount": 275,
+    "image": "/public/kids6.jpg",
+    "description": "Lightweight printed summer dress for all-day comfort."
+  },
+  {
+    "id": 7,
+    "name": "Ethnic Lehanga",
+    "sizes": ["5-6Y", "6-7Y"],
+    "price": 1999,
+    "discountPercent": 50,
+    "discountAmount": 999.5,
+    "finalAmount": 999.5,
+    "image": "/public/kids7.jpg",
+    "description": "Traditional lehanga with elegant embroidery."
+  },
+  {
+    "id": 8,
+    "name": "White Angel Gown",
+    "sizes": ["4-5Y", "5-6Y"],
+    "price": 1699,
+    "discountPercent": 50,
+    "discountAmount": 849.5,
+    "finalAmount": 849.5,
+    "image": "/public/kids8.jpg",
+    "description": "Soft white gown with feathers and lace design."
+  },
+  {
+    "id": 9,
+    "name": "Casual Printed Frock",
+    "sizes": ["1-2Y", "2-3Y"],
+    "price": 450,
+    "discountPercent": 50,
+    "discountAmount": 225,
+    "finalAmount": 225,
+    "image": "/public/kids9.jpg",
+    "description": "Cute printed daily wear frock."
+  },
+  {
+    "id": 10,
+    "name": "Party Satin Dress",
+    "sizes": ["3-4Y", "4-5Y"],
+    "price": 1299,
+    "discountPercent": 50,
+    "discountAmount": 649.5,
+    "finalAmount": 649.5,
+    "image": "/public/kids10.jpg",
+    "description": "Stylish satin dress for weddings and celebrations."
+  },
+
+  {
+    "id": 11,
+    "name": "Peach Layered Gown",
+    "sizes": ["4-5Y", "5-6Y"],
+    "price": 1899,
+    "discountPercent": 50,
+    "discountAmount": 949.5,
+    "finalAmount": 949.5,
+    "image": "/public/kids11.jpg",
+    "description": "Soft peach layered gown with smooth net design."
+  },
+  {
+    "id": 12,
+    "name": "Rainbow Tulle Dress",
+    "sizes": ["3-4Y", "4-5Y"],
+    "price": 1200,
+    "discountPercent": 50,
+    "discountAmount": 600,
+    "finalAmount": 600,
+    "image": "/public/kids12.jpg",
+    "description": "Colorful tulle dress for cheerful kids."
+  },
+  {
+    "id": 13,
+    "name": "Fancy Designer Frock",
+    "sizes": ["2-3Y", "3-4Y"],
+    "price": 999,
+    "discountPercent": 50,
+    "discountAmount": 499.5,
+    "finalAmount": 499.5,
+    "image": "/public/kids13.jpg",
+    "description": "Trendy frock with modern designer pattern."
+  },
+  {
+    "id": 14,
+    "name": "Gold Embroidered Gown",
+    "sizes": ["6-7Y", "7-8Y"],
+    "price": 2200,
+    "discountPercent": 50,
+    "discountAmount": 1100,
+    "finalAmount": 1100,
+    "image": "/public/kids14.jpg",
+    "description": "Premium gold work gown ideal for events."
+  },
+  {
+    "id": 15,
+    "name": "Denim Frock",
+    "sizes": ["2-3Y", "3-4Y"],
+    "price": 750,
+    "discountPercent": 50,
+    "discountAmount": 375,
+    "finalAmount": 375,
+    "image": "/public/kids15.jpg",
+    "description": "Comfortable denim frock for modern look."
+  },
+
+  {
+    "id": 16,
+    "name": "Pink Bow Dress",
+    "sizes": ["3-4Y", "4-5Y"],
+    "price": 850,
+    "discountPercent": 50,
+    "discountAmount": 425,
+    "finalAmount": 425,
+    "image": "/public/kids16.jpg",
+    "description": "Cute dress with oversized bow detail."
+  },
+  {
+    "id": 17,
+    "name": "Butterfly Net Frock",
+    "sizes": ["5-6Y", "6-7Y"],
+    "price": 1400,
+    "discountPercent": 50,
+    "discountAmount": 700,
+    "finalAmount": 700,
+    "image": "/public/kids17.jpg",
+    "description": "Soft net frock with butterfly appliqué."
+  },
+  {
+    "id": 18,
+    "name": "Fluffy Gown",
+    "sizes": ["4-5Y", "5-6Y"],
+    "price": 2600,
+    "discountPercent": 50,
+    "discountAmount": 1300,
+    "finalAmount": 1300,
+    "image": "/public/kids18.jpg",
+    "description": "Grand fluffy gown for birthday celebrations."
+  },
+  {
+    "id": 19,
+    "name": "Satin Rose Dress",
+    "sizes": ["2-3Y", "3-4Y"],
+    "price": 1199,
+    "discountPercent": 50,
+    "discountAmount": 599.5,
+    "finalAmount": 599.5,
+    "image": "/public/kids19.jpg",
+    "description": "Elegant satin frock with rose patterns."
+  },
+  {
+    "id": 20,
+    "name": "Print Frock",
+    "sizes": ["1-2Y", "2-3Y"],
+    "price": 499,
+    "discountPercent": 50,
+    "discountAmount": 249.5,
+    "finalAmount": 249.5,
+    "image": "/public/kids20.jpg",
+    "description": "Cute Minnie-themed frock for toddlers."
+  }
+],
+
+
+
+"mensproducts":
+[
+  {
+    "id": 1,
+    "name": "White Vesti with Cream Shirt Set",
+    "sizes": ["M", "L", "XL", "XXL"],
+    "price": 999,
+    "description": "Classic white vesti paired with a cream-colored formal shirt for traditional functions.",
+    "image": "/public/men1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Cotton Vesti with Sky Blue Shirt",
+    "sizes": ["M", "L", "XL"],
+    "price": 1099,
+    "description": "Soft cotton vesti with a sky-blue matching shirt suitable for festivals.",
+    "image": "/public/men2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Golden Border Vesti with Maroon Shirt",
+    "sizes": ["L", "XL", "XXL"],
+    "price": 1299,
+    "description": "Traditional golden border vesti paired with a rich maroon shirt.",
+    "image": "/public/men3.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Zari Vesti with White Shirt Combo",
+    "sizes": ["M", "L", "XL"],
+    "price": 1499,
+    "description": "Elegant zari-lined vesti with classic white shirt.",
+    "image": "/public/men4.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Temple Border Vesti with Yellow Shirt",
+    "sizes": ["L", "XL"],
+    "price": 1199,
+    "description": "Beautiful temple border vesti paired with a bright yellow shirt.",
+    "image": "/public/men5.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Double Border Vesti with Navy Blue Shirt",
+    "sizes": ["M", "L", "XL"],
+    "price": 1399,
+    "description": "Double gold border vesti with navy-blue matching shirt.",
+    "image": "/public/men6.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Soft Cotton Vesti with Light Green Shirt",
+    "sizes": ["L", "XL", "XXL"],
+    "price": 999,
+    "description": "Lightweight cotton vesti with a refreshing green shirt.",
+    "image": "/public/men7.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Kerala Vesti with Brown Shirt",
+    "sizes": ["M", "L", "XL"],
+    "price": 1299,
+    "description": "Kerala-style vesti with a premium brown shirt.",
+    "image": "/public/men8.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Golden Vesti with Royal Blue Shirt",
+    "sizes": ["M", "L", "XL"],
+    "price": 1499,
+    "description": "Royal blue shirt matched with golden zari vesti.",
+    "image": "/public/men9.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Traditional Vesti with Pink Shirt",
+    "sizes": ["M", "L", "XL"],
+    "price": 1099,
+    "description": "Traditional white vesti with trendy pink shirt.",
+    "image": "/public/men10.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Golden Line Vesti with Black Shirt",
+    "sizes": ["L", "XL"],
+    "price": 1399,
+    "description": "Black shirt with golden-line traditional vesti.",
+    "image": "/public/men11.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Wedding Vesti with Cream Shirt",
+    "sizes": ["M", "L", "XL"],
+    "price": 1599,
+    "description": "Premium wedding vesti set with a soft cream shirt.",
+    "image": "/public/men12.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Vesti with Mustard Shirt",
+    "sizes": ["M", "L", "XL"],
+    "price": 1199,
+    "description": "Temple border vesti with mustard color shirt.",
+    "image": "/public/men13.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Pure Cotton Vesti with Grey Shirt",
+    "sizes": ["L", "XL", "XXL"],
+    "price": 999,
+    "description": "Breathable cotton vesti set with a grey shirt.",
+    "image": "/public/men14.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Zari Border Vesti with Peach Shirt",
+    "sizes": ["M", "L", "XL"],
+    "price": 1299,
+    "description": "Zari border vesti styled with a peach color shirt.",
+    "image": "/public/men15.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Classic White Vesti with Green Shirt",
+    "sizes": ["M", "L", "XL"],
+    "price": 1099,
+    "description": "White traditional vesti with stylish green shirt.",
+    "image": "/public/men16.jpg"
+  },
+  {
+    "id": 17,
+    "name": "Double Zari Vesti with Violet Shirt",
+    "sizes": ["L", "XL"],
+    "price": 1499,
+    "description": "Double zari-lined vesti paired with violet shirt.",
+    "image": "/public/men17.jpg"
+  },
+  {
+    "id": 18,
+    "name": "Kerala Mundu with Beige Shirt",
+    "sizes": ["M", "L", "XL"],
+    "price": 1299,
+    "description": "Kerala-style mundu vesti with beige shirt combo.",
+    "image": "/public/men18.jpg"
+  },
+  {
+    "id": 19,
+    "name": "Vibar Vesti with Red Shirt",
+    "sizes": ["M", "L", "XL"],
+    "price": 1399,
+    "description": "Vibar-style vesti combo with vibrant red shirt.",
+    "image": "/public/men19.jpg"
+  },
+  {
+    "id": 20,
+    "name": "Gold Border Vesti with White Shirt",
+    "sizes": ["M", "L", "XL", "XXL"],
+    "price": 1499,
+    "description": "Pure white formal shirt with gold-lined vesti for traditional events.",
+    "image": "/public/men20.jpg"
+  }
+],
+
+
+"womensproduct":[
+  {
+    "id": 1,
+    "name": "Kanchipuram Silk Saree",
+    "type": "Silk",
+    "price": 3499,
+    "description": "Traditional Kanchipuram silk saree with zari border.",
+    "image": "/public/womens1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Banarasi Saree",
+    "type": "Banarasi",
+    "price": 2999,
+    "description": "Elegant red Banarasi saree perfect for weddings and festivals.",
+    "image": "/public/womens2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Cotton Handloom Saree",
+    "type": "Cotton",
+    "price": 1499,
+    "description": "Soft cotton handloom saree suitable for daily wear.",
+    "image": "/public/womens3.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Silk Designer Saree",
+    "type": "Designer",
+    "price": 3999,
+    "description": "Rich blue silk saree with intricate embroidery.",
+    "image": "/public/womens4.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Georgette Saree",
+    "type": "Party Wear",
+    "price": 2599,
+    "description": "Pink georgette saree with stonework design ideal for parties.",
+    "image": "/public/womens5.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Cotton Printed Saree",
+    "type": "Cotton",
+    "price": 1200,
+    "description": "Lightweight yellow printed cotton saree for casual outings.",
+    "image": "/public/womens6.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Silk Saree",
+    "type": "Bridal",
+    "price": 5999,
+    "description": "Luxurious bridal silk saree with golden zari work.",
+    "image": "/public/womens7.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Banarasi Saree",
+    "type": "Banarasi",
+    "price": 2799,
+    "description": "Traditional green Banarasi saree with rich border work.",
+    "image": "/public/womens8.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Soft Silk Saree",
+    "type": "Silk",
+    "price": 3199,
+    "description": "Smooth and elegant purple soft silk saree.",
+    "image": "/public/womens9.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Designer Saree",
+    "type": "Designer",
+    "price": 3500,
+    "description": "Stylish black designer saree with shimmering border.",
+    "image": "/public/womens10.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Linen Saree",
+    "type": "Linen",
+    "price": 1600,
+    "description": "Simple and elegant white linen saree for daily comfort.",
+    "image": "/public/womens11.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Soft Georgette Saree",
+    "type": "Party Wear",
+    "price": 2200,
+    "description": "Soft georgette saree in pastel pink with light embroidery.",
+    "image": "/public/womens12.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Cotton Saree",
+    "type": "Cotton",
+    "price": 999,
+    "description": "Classic blue cotton saree for daily use.",
+    "image": "/public/womens13.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Tissue Saree",
+    "type": "Designer",
+    "price": 4200,
+    "description": "Premium golden tissue saree ideal for rich festive looks.",
+    "image": "/public/womens14.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Kora Silk Saree",
+    "type": "Silk",
+    "price": 3300,
+    "description": "Lightweight kora silk saree with elegant border.",
+    "image": "/public/womens15.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Embroidered Saree",
+    "type": "Party Wear",
+    "price": 2600,
+    "description": "Bright red saree with heavy embroidery work.",
+    "image": "/public/womens16.jpg"
+  },
+  {
+    "id": 17,
+    "name": "Festive Saree",
+    "type": "Traditional",
+    "price": 2800,
+    "description": "Yellow festive saree adorned with traditional patterns.",
+    "image": "/public/womens17.jpg"
+  },
+  {
+    "id": 18,
+    "name": "Banarasi Silk Saree",
+    "type": "Banarasi",
+    "price": 3499,
+    "description": "Heavy Banarasi silk saree in rich blue shade.",
+    "image": "/public/womens18.jpg"
+  },
+  {
+    "id": 19,
+    "name": "Soft Cotton Saree",
+    "type": "Cotton",
+    "price": 1300,
+    "description": "Soft and breathable orange cotton saree.",
+    "image": "/public/womens19.jpg"
+  },
+  {
+    "id": 20,
+    "name": "Silk Saree",
+    "type": "Bridal",
+    "price": 6200,
+    "description": "Premium wedding silk saree with luxurious zari weaving.",
+    "image": "/public/womens20.jpg"
+  }
+]
+
+
+}
